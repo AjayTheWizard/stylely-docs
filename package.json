@@ -10,7 +10,7 @@
   "repository": "AjayTheWizard/stylely",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src --root config/"
+    "build": "vuepress build src -c config"
   },
   "license": "MIT",
   "devDependencies": {
