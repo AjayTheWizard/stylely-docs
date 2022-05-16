@@ -27,7 +27,7 @@ Here my `style.css`
 }
 ```
 
-Above CSS is like If CSS was created by Kid. Yeah Stylely also created 16 years old Kid ;) Me.
+Above CSS is like If CSS was created by Kid. Yeah Stylely also created by 16 years old Kid ;) Me.
 
 Stylely converts above into,
 
